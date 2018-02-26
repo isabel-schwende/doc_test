@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+title : Documentation Test
+tagline: Site Tagline
+author :
+	  name : Isabel Schwende
+	  email : isabel@eyeem.com
+	  github : isabel-schwende
+    
+markdown: kramdown
