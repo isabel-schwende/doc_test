@@ -11,7 +11,6 @@ description: >
 baseurl: "" 
 url: "http://mobius.ml" # the base hostname & protocol for your site
 
-# Build Settings
 sass:
   sass_dir: _sass
 include: ['_pages']
