@@ -1,10 +1,14 @@
 theme: jekyll-theme-slate
 
 title : Documentation Test
-tagline: Site Tagline
+tagline: Filter images with AI magic
 author :
   name : Isabel Schwende
   email : isabel@eyeem.com
   github : isabel-schwende
-    
+description: > 
+  We're on a mission to enable users to easily filter their images for the content they are looking for. We have an AI system that automatically analyzes the content and style of an image. It tells you keywords that describe the image and how good it is compared to professional shots. Don't waste your time filtering and sorting your images when you can do it with our SDK automatically.  
+baseurl: "" 
+url: "http://mobius.ml" # the base hostname & protocol for your site
+
 markdown: kramdown
