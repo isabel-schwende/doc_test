@@ -8,8 +8,8 @@ author :
   github : isabel-schwende
 description: > 
   We're on a mission to enable users to easily filter their images for the content they are looking for. We have an AI system that automatically analyzes the content and style of an image. Don't waste your time filtering and sorting your images when you can do it with our SDK automatically.  
-#baseurl: "" 
-#url: "http://mobius.ml" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://mobius.ml" # the base hostname & protocol for your site
 
 sass:
   sass_dir: _sass
