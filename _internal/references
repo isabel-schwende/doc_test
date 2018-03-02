@@ -1,0 +1,21 @@
+References for writing documentation with kramdown
+========================
+
+Quick ref - cheat sheet for kramdown
+https://kramdown.gettalong.org/quickref.html
+
+Github set up:
+http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
+
+Jekyll and Github combination:
+https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ 
+
+General info for publishing Jekyll pages on Github:
+http://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html 
+
+Jekyll info:
+https://jekyllrb.com/docs/frontmatter/ 
+
+# Other stuff
+Documentation theme
+http://idratherbewriting.com/documentation-theme-jekyll/index.html#
